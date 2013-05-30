@@ -6,3 +6,5 @@ yui3-seed
 Installation instruction:
 
 `bower install yui3-seed`
+
+[Read more on how to use YUI3 seed file](http://yuilibrary.com/yui/docs/yui/#getting-started)
