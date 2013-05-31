@@ -8,3 +8,21 @@ Installation instruction:
 `bower install yui3-seed`
 
 [Read more on how to use YUI3 seed file](http://yuilibrary.com/yui/docs/yui/#getting-started)
+
+
+<hr>
+
+```html
+<script src="[bower_components_directory]/yui3-seed/yui-min.js"></script>
+<script>
+  YUI({
+    modules   : {
+      'your-optional-custom-module' : {
+        fullpath : 'path/to/module.js'
+      }
+    }
+  }).use('your-optional-custom-module', function(Y){
+        // Your code goes here
+      });
+</script>
+```
