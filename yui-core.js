@@ -1,5 +1,5 @@
 /*
-YUI 3.10.2 (build f282c77)
+YUI 3.10.3 (build 2fb5187)
 Copyright 2013 Yahoo! Inc. All rights reserved.
 Licensed under the BSD License.
 http://yuilibrary.com/license/
@@ -163,7 +163,7 @@ available.
 (function() {
 
     var proto, prop,
-        VERSION = '3.10.2',
+        VERSION = '3.10.3',
         PERIOD = '.',
         BASE = 'http://yui.yahooapis.com/',
         /*
@@ -3666,4 +3666,4 @@ YUI.Env.aliases = {
 };
 
 
-}, '3.10.2');
+}, '3.10.3');
